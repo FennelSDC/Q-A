@@ -1,0 +1,22 @@
+{
+  "name": "questions_answers",
+  "version": "1.0.0",
+  "description": "backend for questions and answers portion of FEC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FennelSDC/Q-A.git"
+  },
+  "author": "cihad akkaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FennelSDC/Q-A/issues"
+  },
+  "homepage": "https://github.com/FennelSDC/Q-A#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
